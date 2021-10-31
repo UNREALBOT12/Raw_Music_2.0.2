@@ -22,7 +22,7 @@ async def start(_, message: Message):
                         "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/Lowasosiaction"
                     ),
                     InlineKeyboardButton(
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url=https://t.me/yaarokimastifrendship""
+                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/yaarokimastifrendship"
                     )
                 ],[ 
                     InlineKeyboardButton(
